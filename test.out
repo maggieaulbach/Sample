@@ -23,6 +23,7 @@
 <li><a href=".vagrant/">.vagrant/</a>
 <li><a href=".vagrant.d/">.vagrant.d/</a>
 <li><a href=".viminfo">.viminfo</a>
+<li><a href=".vimrc">.vimrc</a>
 <li><a href=".wget-hsts">.wget-hsts</a>
 <li><a href="bin/">bin/</a>
 <li><a href="Desktop/">Desktop/</a>
